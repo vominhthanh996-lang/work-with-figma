@@ -1,0 +1,7 @@
+{
+  "name": "Codex Rename Frames From Text",
+  "id": "codex-rename-frames-from-text",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"]
+}
